@@ -27,8 +27,8 @@ Aionic is an advanced prosthetic arm that uses AI-driven grip control powered by
 
 ## 📽 Demo
 
-- 🔗 [3-minute Demo Video](https://drive.google.com/file/d/1MneAc-hWX-J22ZBj8O7vggA0aeIEh1tK/view?usp=sharing)
-- 📦 [GitHub Repository (Public)](https://github.com/YourUsername/Aionic) *(Replace with your repo link)*
+- 🔗 [ Demo Video](https://drive.google.com/file/d/1MneAc-hWX-J22ZBj8O7vggA0aeIEh1tK/view?usp=sharing)
+- 📦 [GitHub Repository (Public)](https://github.com/HASTAR-CPP/Aionic) 
 
 ---
 
@@ -76,11 +76,6 @@ Aionic comes with a companion interface for:
 
 ---
 
-## 📄 License
-
-MIT License – feel free to use and contribute!
-
----
 
 ## ✨ Acknowledgements
 
