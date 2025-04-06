@@ -71,8 +71,8 @@ Aionic comes with a companion interface for:
 
 ## ❤️ Contributors
 
-- **Animesh** – Project Lead & Developer  
-- **Riya**(https://github.com/riyaaa00) – Co-Developer & Inspiration 💖
+- **Animesh** – Project Lead 
+- **Riya**(https://github.com/riyaaa00) – Developer & Inspiration ☺️
 
 ---
 
