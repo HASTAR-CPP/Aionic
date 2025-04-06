@@ -32,21 +32,9 @@ Aionic is an advanced prosthetic arm that uses AI-driven grip control powered by
 
 ---
 
-## 📱 Companion App
-
-Aionic comes with a companion interface for:
-
-- Gesture training and calibration
-- Voice command integration via Gemini
-- Real-time feedback dashboards hosted on Google IDX
-
----
-
 ## 📸 Snapshots of the MVP
 
 - EMG Signal Live Feed  
-- Force Sensor Feedback in Real Time  
-- Reinforcement Learning Model Logs  
 - Arduino Finger Actuation  
 
 
