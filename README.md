@@ -32,23 +32,6 @@ Aionic is an advanced prosthetic arm that uses AI-driven grip control powered by
 
 ---
 
-## 🧪 Getting Started
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/YourUsername/Aionic.git
-   cd Aionic
-   ```
-
-2. Run the ML model on Colab or Raspberry Pi  
-   Open `Aionic-model.ipynb.ipynb` and follow the instructions.
-
-3. Upload `servo_control.ino` to your Arduino using the Arduino IDE.
-
-4. Interface the sensors using Raspberry Pi GPIO and connect to Arduino via serial.
-
----
-
 ## 📱 Companion App
 
 Aionic comes with a companion interface for:
