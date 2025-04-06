@@ -3,7 +3,8 @@ a bionic arm
 Aionic – AI-Powered Prosthetic Arm with Adaptive Grip
 Aionic is an intelligent prosthetic hand that combines EMG-based gesture control, AI-powered adaptive grip, and real-time feedback mechanisms. Built for enhanced precision, safety, and user control, it is ideal for assistive tech and industrial applications.
 
- Features
+# Features
+
 
 EMG-based gesture recognition (15 predefined gestures)
 
