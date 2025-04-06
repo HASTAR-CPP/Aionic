@@ -65,14 +65,14 @@ Aionic comes with a companion interface for:
 - Force Sensor Feedback in Real Time  
 - Reinforcement Learning Model Logs  
 - Arduino Finger Actuation  
-*(Screenshots can be added in the repo’s `/snapshots/` folder)*
+
 
 ---
 
 ## ❤️ Contributors
 
 - **Animesh** – Project Lead & Developer  
-- **Riya** – Co-Developer & Inspiration 💖
+- **Riya**(https://github.com/riyaaa00) – Co-Developer & Inspiration 💖
 
 ---
 
