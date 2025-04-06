@@ -17,11 +17,17 @@ EMG-based gesture recognition (15 predefined gestures)
 
  Cloud-connected Smart Companion App (Google IDX + Gemini API)
 
- Tech Stack
-Component	Tech Used
+ # Tech Stack
+## Component	Tech Used
+
 AI Model	TensorFlow Lite (on Raspberry Pi)
+
 Signal Processing	Python, NumPy, SciPy
+
 Embedded Control	Arduino + Servo Motors
+
 Sensors	EMG, Force, Torque Sensors
+
 App + Dashboard	Google IDX, Gemini API
+
 ML Logic	Reinforcement Learning + PID
