@@ -3,20 +3,21 @@ a bionic arm
 Aionic – AI-Powered Prosthetic Arm with Adaptive Grip
 Aionic is an intelligent prosthetic hand that combines EMG-based gesture control, AI-powered adaptive grip, and real-time feedback mechanisms. Built for enhanced precision, safety, and user control, it is ideal for assistive tech and industrial applications.
 
-🔧 Features
-🎯 EMG-based gesture recognition (15 predefined gestures)
+ Features
 
-🧠 Onboard AI model (TensorFlow Lite) for real-time inference
+EMG-based gesture recognition (15 predefined gestures)
 
-🔁 Reinforcement learning-based adaptive grip control
+ Onboard AI model (TensorFlow Lite) for real-time inference
 
-📈 PID torque adjustment from force & torque sensors
+ Reinforcement learning-based adaptive grip control
 
-🤖 Real-time prosthetic finger movement via servo motors
+ PID torque adjustment from force & torque sensors
 
-☁️ Cloud-connected Smart Companion App (Google IDX + Gemini API)
+ Real-time prosthetic finger movement via servo motors
 
-🛠️ Tech Stack
+ Cloud-connected Smart Companion App (Google IDX + Gemini API)
+
+ Tech Stack
 Component	Tech Used
 AI Model	TensorFlow Lite (on Raspberry Pi)
 Signal Processing	Python, NumPy, SciPy
