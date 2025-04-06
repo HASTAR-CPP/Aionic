@@ -29,6 +29,7 @@ Embedded Control	Arduino + Servo Motors
 
 Sensors	EMG, Force, Torque Sensors
 
-App + Dashboard	Google IDX, Gemini API
-
 ML Logic	Reinforcement Learning + PID
+
+# Future work
+App + Dashboard	Google IDX, Gemini API(future work)
