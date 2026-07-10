@@ -43,7 +43,7 @@ Aionic is an advanced prosthetic arm that uses AI-driven grip control powered by
 ## ❤️ Contributors
 
 - **Animesh** – Project Lead 
-- **Riya**(https://github.com/riyaaa00) – Developer & Inspiration ☺️
+- **Riya**(https://github.com/riyaaa00) 
 
 ---
 
